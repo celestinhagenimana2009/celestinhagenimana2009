@@ -1,1 +1,1 @@
-## I'm Celestin Hagenimana, a data scientist skilled in data analytics, statistical modelling, and machine learning, with applications in climate risk, atmospheric science, and environmental ## research.
+## I'm Celestin Hagenimana, a data scientist skilled in data analytics, statistical modelling, and machine learning, with applications in climate risk, atmospheric science, and environmental research.
